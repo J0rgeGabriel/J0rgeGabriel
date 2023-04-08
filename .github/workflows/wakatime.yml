@@ -3,7 +3,7 @@ name: Wakatime
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '10 0 * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 jobs:
   update-readme:

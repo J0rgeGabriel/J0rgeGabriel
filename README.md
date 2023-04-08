@@ -7,15 +7,15 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielgomes2003@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-lightgrey)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-lightgrey)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-**🎲 My GitHub Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 84 Contributions in the Year 2023
+> 🏆 91 Contributions in the Year 2023
  > 
-> 📦 278 Bytes Used in GitHub's Storage 
+> 📦 434 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -27,21 +27,21 @@
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌇 Daytime    20 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-🌃 Evening    60 commits     ██████████████████░░░░░░░   72.29% 
-🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+🌇 Daytime    21 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌃 Evening    60 commits     █████████████████░░░░░░░░   71.43% 
+🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Monday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    20 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
+Wednesday    20 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     48 commits     ██████████████░░░░░░░░░░░   57.83% 
-Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46%
+Saturday     49 commits     ██████████████░░░░░░░░░░░   58.33% 
+Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
@@ -68,7 +68,7 @@ Windows                  6 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 08/04/2023 19:35:41 UTC
+ Last Updated on 08/04/2023 20:00:14 UTC
 <!--END_SECTION:waka-->
 
 

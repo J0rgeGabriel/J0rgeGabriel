@@ -7,13 +7,13 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielgomes2003@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-lightgrey)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-lightgrey)
 
-**🐱 My GitHub Data** 
+**🎲 My GitHub Data** 
 
-> 🏆 90 Contributions in the Year 2023
+> 🏆 84 Contributions in the Year 2023
  > 
 > 📦 278 Bytes Used in GitHub's Storage 
  > 
@@ -68,7 +68,7 @@ Windows                  6 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 08/04/2023 19:47:41 UTC
+ Last Updated on 08/04/2023 19:35:41 UTC
 <!--END_SECTION:waka-->
 
 

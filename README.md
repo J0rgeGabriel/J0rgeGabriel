@@ -7,7 +7,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielgomes2003@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
@@ -68,7 +68,7 @@ Windows                  6 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 08/04/2023 22:40:01 UTC
+ Last Updated on 08/04/2023 22:52:44 UTC
 <!--END_SECTION:waka-->
 
 

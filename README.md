@@ -6,8 +6,15 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge__gabriel_/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielgomes2003@gmail.com)
 
+🧑🏾‍💻Linguagens que eu estou aprendendo:
+<div <style><br/>
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
+</div>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
@@ -68,7 +75,7 @@ Windows                  6 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 08/04/2023 22:52:44 UTC
+ Last Updated on 08/04/2023 22:40:01 UTC
 <!--END_SECTION:waka-->
 
 

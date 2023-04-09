@@ -18,23 +18,26 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
 </div><br>
 
-Languages I use:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-g-717603souzag)
+💻IDE's I use:
+<div <style>
+     <img aling="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
+     <img aling="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+</div><br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 101 Contributions in the Year 2023
+> 🏆 92 Contributions in the Year 2023
  > 
-> 📦 475 Bytes Used in GitHub's Storage 
+> 📦 470 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -42,21 +45,21 @@ Languages I use:
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌇 Daytime    21 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34% 
-🌃 Evening    70 commits     ██████████████████░░░░░░░   74.47% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+🌇 Daytime    21 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+🌃 Evening    63 commits     ██████████████████░░░░░░░   72.41% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+Wednesday    20 commits     █████░░░░░░░░░░░░░░░░░░░░   22.99% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     59 commits     ███████████████░░░░░░░░░░   62.77% 
-Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+Saturday     52 commits     ███████████████░░░░░░░░░░   59.77% 
+Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
 
 ```
 
@@ -83,7 +86,7 @@ Windows                  6 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 09/04/2023 01:52:28 UTC
+ Last Updated on 09/04/2023 00:32:40 UTC
 <!--END_SECTION:waka-->
 
 

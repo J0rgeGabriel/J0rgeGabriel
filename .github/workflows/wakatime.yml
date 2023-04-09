@@ -22,7 +22,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: "2"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "True"

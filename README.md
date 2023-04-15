@@ -23,7 +23,7 @@
 </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
 
@@ -35,7 +35,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -84,7 +84,7 @@ Windows                  4 hrs 32 mins       ███████████�
 ```
 
 
- Last Updated on 15/04/2023 23:39:33 UTC
+ Last Updated on 15/04/2023 23:52:09 UTC
 <!--END_SECTION:waka-->
 
 

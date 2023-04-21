@@ -31,7 +31,7 @@
 
 > 🏆 106 Contributions in the Year 2023
  > 
-> 📦 744 Bytes Used in GitHub's Storage 
+> 📦 672 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +84,7 @@ Windows                  13 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 21/04/2023 05:39:30 UTC
+ Last Updated on 21/04/2023 05:52:08 UTC
 <!--END_SECTION:waka-->
 
 

@@ -23,15 +23,13 @@
 </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 112 Contributions in the Year 2023
- > 
-> 📦 783 Bytes Used in GitHub's Storage 
+> 📦 789 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +82,7 @@ Windows                  9 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 24/04/2023 22:50:45 UTC
+ Last Updated on 24/04/2023 23:08:34 UTC
 <!--END_SECTION:waka-->
 
 

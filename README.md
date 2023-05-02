@@ -23,7 +23,7 @@
 </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -31,7 +31,7 @@
 
 > 🏆 115 Contributions in the Year 2023
  > 
-> 📦 954 Bytes Used in GitHub's Storage 
+> 📦 961 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -68,7 +68,9 @@ Sunday       22 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 hrs 5 mins        █████████████████████████   99.76% 
+Python                   4 hrs 27 mins       █████████████████████░░░░   87.43% 
+SQL                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
@@ -80,7 +82,7 @@ Windows                  5 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 02/05/2023 03:21:46 UTC
+ Last Updated on 02/05/2023 03:34:44 UTC
 <!--END_SECTION:waka-->
 
 

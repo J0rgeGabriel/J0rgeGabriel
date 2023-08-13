@@ -9,33 +9,32 @@
 🧑🏾‍💻My skills:
 <div <style>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> 
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> 
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
-</div><br>
 
 💻IDE's I use:
 <div <style>
-     <img aling="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
+     <img aling="center" alt="html5" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>  
      <img aling="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div><br>
 
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 50 Contributions in the Year 2023
+> 🏆 48 Contributions in the Year 2023
  > 
 > 📦 38.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -43,21 +42,21 @@
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌇 Daytime    9 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-🌃 Evening    28 commits     ██████████████████░░░░░░░   71.79% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
+🌇 Daytime    9 commits      ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+🌃 Evening    27 commits     █████████████████░░░░░░░░   71.05% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+Monday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       11 commits     ███████░░░░░░░░░░░░░░░░░░   28.21% 
-Saturday     19 commits     ████████████░░░░░░░░░░░░░   48.72% 
-Sunday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+Friday       11 commits     ███████░░░░░░░░░░░░░░░░░░   28.95% 
+Saturday     18 commits     ███████████░░░░░░░░░░░░░░   47.37% 
+Sunday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
 
 ```
 
@@ -84,7 +83,7 @@ Windows                  3 hrs 19 mins       ███████████�
 ```
 
 
- Last Updated on 13/08/2023 01:41:57 UTC
+ Last Updated on 13/08/2023 00:50:37 UTC
 <!--END_SECTION:waka-->
 
 

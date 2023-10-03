@@ -66,17 +66,19 @@ Sunday                   11 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 hr 58 mins        █████████████░░░░░░░░░░░░   52.82 % 
+HTML                     1 hr 45 mins        ████████████░░░░░░░░░░░░░   47.17 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/10/2023 02:52:30 UTC
+ Last Updated on 03/10/2023 03:12:32 UTC
 <!--END_SECTION:waka-->
 
 

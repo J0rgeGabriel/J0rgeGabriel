@@ -23,7 +23,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,9 +35,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -78,7 +78,7 @@ Windows                  3 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 03/10/2023 19:15:08 UTC
+ Last Updated on 03/10/2023 19:28:00 UTC
 <!--END_SECTION:waka-->
 
 
